@@ -1,3 +1,9 @@
 h1{
     color: red;
 }
+
+#alma{
+    border-width: 3px;
+    border-color: black;
+    border-style: dashed;
+}
